@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    color: black;
+}
+
 .navbar{
     max-width: 1100px;
     margin: 25px auto;
